@@ -1,4 +1,4 @@
-# Analyz Mega Journals
+# Analyze Mega Journals
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zuphilip/analyze-mega-journals/HEAD?labpath=analyze.ipynb)
 
