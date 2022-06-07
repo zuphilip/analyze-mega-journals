@@ -51,4 +51,4 @@ This is Open Source software. You may use this software under the terms of the M
 The data in the CSV files come from the Crossref API and are therefore a [mixture of facts without copyright restrictions and things waived under CC0](https://www.crossref.org/documentation/retrieve-metadata/rest-api/rest-api-metadata-license-information/), i.e. no rights reserved at all on the data.
 
 
-[^1]: (this info needs to be added later)
+[^1]: Philipp Zumstein, "Blitzschnelles Publizieren mit Academia Letters, aber sag', wie verhält es sich mit der Qualitätssicherung? Ein informationswissenschaftlicher Kommentar". LIBREAS. Library Ideas, 41 (2022). https://libreas.eu/ausgabe41/zumstein/
